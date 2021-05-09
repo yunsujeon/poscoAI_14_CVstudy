@@ -25,9 +25,9 @@
 
 ### 장소
 - POSTECH RIST 연구4동 1층 ATM옆 또는 4층휴게실..
-  - [장소 지도로 보기](http://naver.me/GdJiu2Dc)
-  <img src="./rist.png" width="400px" height="400px"></img><br/>
-  - 도서관은 멀고 더워요..  
+  - [장소 지도로 보기](http://naver.me/GdJiu2Dc)   
+  <img src="./rist.png" width="491px" height="418px"></img><br/>   
+  - 도서관은 멀고 더워요..   
 
 ### 중점적으로 살펴볼 내용
 - 논문명을 분석해보기
