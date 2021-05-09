@@ -3,11 +3,13 @@
 ## POSCO 청년 AI Bigdata 14기
 #### 딥러닝-CV 기술,논문 분석스터디
 
+  <img src="./pos.png" width="684px" height="90px"></img><br/>
+
 ### 참여인원 : 
-- 전윤수
-- 배혜연
-- 정채린
-- 편승희
+- [전윤수](https://github.com/yunsujeon)
+- [배혜연](https://github.com/henginthere)
+- [정채린](https://github.com/taetinn)
+- [편승희](https://github.com/p971017)
 
 ### Study 목적
 - 딥러닝이 관여하는 컴퓨터 비전 기술의 전체적 이해
@@ -22,7 +24,9 @@
   - 분석한 자료 및 링크는 Github에 업로드하여 공유
 
 ### 장소
-- POSTECH RIST 연구4동 1층 ATM옆 또는 4층휴게실 ..ㅠㅠ
+- POSTECH RIST 연구4동 1층 ATM옆 또는 4층휴게실..
+  - [장소 지도로 보기](http://naver.me/GdJiu2Dc)
+  <img src="./rist.png" width="400px" height="400px"></img><br/>
   - 도서관은 멀고 더워요..  
 
 ### 중점적으로 살펴볼 내용
