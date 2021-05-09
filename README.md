@@ -33,11 +33,11 @@
   - 핵심 아이디어, 기술 포함
 
 ## Contents
-- 이미지 분류 (Image Classification)
-- 객체 인식 (Object Detection)
-- 의미론적 분류 (Semantic Segmentation)
-- *데이터 증식(Data Augmentation)*
-- 얼굴 인식 (Face Recognition)
-- GAN (Unsupervised Learning)
+- [이미지 분류 (Image Classification)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Image_Classification)
+- [객체 인식 (Object Detection)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Object_Detection)
+- [의미론적 분류 (Semantic Segmentation)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Semantic_Segmentation)
+- [데이터 증식(Data Augmentation)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Augmentation)
+- [얼굴 인식 (Face Recognition)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Face_Recognition)
+- [GAN (Unsupervised Learning)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/GAN)
 
 
