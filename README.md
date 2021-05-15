@@ -1,9 +1,16 @@
 # poscoAI_14_CVstudy
 
 ## POSCO 청년 AI Bigdata 14기
-#### 딥러닝-CV 기술,논문 분석스터디
+### 딥러닝-CV 기술,논문 분석스터디   
+  <img src="./pos.png" width="684px" height="90px"></img><br/>   
 
-  <img src="./pos.png" width="684px" height="90px"></img><br/>
+## Contents   
+- [이미지 분류 (Image Classification)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Image_Classification)
+- [객체 인식 (Object Detection)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Object_Detection)
+- [의미론적 분류 (Semantic Segmentation)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Semantic_Segmentation)
+- [데이터 증식(Data Augmentation)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Augmentation)
+- [얼굴 인식 (Face Recognition)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Face_Recognition)
+- [GAN (Unsupervised Learning)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/GAN)
 
 ### 참여인원 : 
 - [전윤수](https://github.com/yunsujeon)
