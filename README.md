@@ -30,15 +30,15 @@
   - 분석 후 자료를 정리(ppt,포스팅) or 블로그 참조로 20분정도씩 발표
   - 분석한 자료 및 링크는 Github에 업로드하여 공유
 
+### 중점적으로 살펴볼 내용
+- 논문명을 분석해보기
+  - ex) VGGNet의 논문명은 Very Deep Convolutional Networks For Large-Scale Image Recognition 으로 제목에 기술>이 함축되어 있음
+- 출간 년도와 어떤 그룹에서 낸 논문인지
+- 프로세싱의 흐름을 분석
+  - 핵심 아이디어, 기술 포함
+
 ### 장소
 - POSTECH RIST 연구4동 1층 ATM옆 또는 4층휴게실..
   - [장소 지도로 보기](http://naver.me/GdJiu2Dc)   
   <img src="./rist.png" width="491px" height="418px"></img><br/>   
   - 도서관은 멀고 더워요..   
-
-### 중점적으로 살펴볼 내용
-- 논문명을 분석해보기
-  - ex) VGGNet의 논문명은 Very Deep Convolutional Networks For Large-Scale Image Recognition 으로 제목에 기술이 함축되어 있음
-- 출간 년도와 어떤 그룹에서 낸 논문인지
-- 프로세싱의 흐름을 분석
-  - 핵심 아이디어, 기술 포함
