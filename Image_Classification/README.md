@@ -29,3 +29,10 @@
     - 위 기술들을 모두 사용, 최적점을 찾아 적용 한 것이 Inception V3
     - 위 기술들을 조금씩 사용, 하나씩 사용 한것은 Inception V2 모델들
 
+5.
+
+6.
+
+7. SeNet
+- [논문링크]
+- [study PPT링크](https://docs.google.com/presentation/d/18RblST2lA_6EuKZqCC82yoHAgLc-ZI-1fqXAFn0fqKg/edit?usp=sharing)
