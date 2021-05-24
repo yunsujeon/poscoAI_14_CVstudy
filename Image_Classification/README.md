@@ -29,10 +29,15 @@
     - 위 기술들을 모두 사용, 최적점을 찾아 적용 한 것이 Inception V3
     - 위 기술들을 조금씩 사용, 하나씩 사용 한것은 Inception V2 모델들
 
-5.
+5. MobileNet
+- [논문링크](https://arxiv.org/pdf/1704.04861.pdf)
 
-6.
+6. DenseNet
+- [논문링크](https://arxiv.org/pdf/1608.06993.pdf)
 
 7. SeNet
-- [논문링크]
+- [논문링크](https://arxiv.org/pdf/1709.01507.pdf)
 - [study PPT링크](https://docs.google.com/presentation/d/18RblST2lA_6EuKZqCC82yoHAgLc-ZI-1fqXAFn0fqKg/edit?usp=sharing)
+
+8. EfficientNet
+- [논문링크](https://arxiv.org/pdf/1905.11946.pdf)
