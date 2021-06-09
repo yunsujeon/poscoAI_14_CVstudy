@@ -48,7 +48,6 @@
    - https://wikidocs.net/121707
    - https://warm-uk.tistory.com/46
 
-
 7. SeNet
 - [논문링크](https://arxiv.org/pdf/1709.01507.pdf)
 - [study PPT링크](https://docs.google.com/presentation/d/18RblST2lA_6EuKZqCC82yoHAgLc-ZI-1fqXAFn0fqKg/edit?usp=sharing)
