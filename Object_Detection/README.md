@@ -11,6 +11,7 @@
    - https://man-about-town.tistory.com/52
 
 3. Fast R-CNN
+- [Fast R-CNN.pdf 첨부파일 참고]
 - 논문 이외 References
    -https://ganghee-lee.tistory.com/36
 - 요약 : 
