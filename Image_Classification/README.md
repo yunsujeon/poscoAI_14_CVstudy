@@ -9,6 +9,7 @@
 
 3. ResNet
 - [논문 링크](https://arxiv.org/abs/1512.03385)
+- [study 문서링크](https://docs.google.com/document/d/10jnnSvAlrxamERIJon_d7IWWydkc5jFHkZlQbFVAIWA/edit?usp=sharing)
 
 4. Inception V1 ~ V3
 - [논문 링크](https://arxiv.org/abs/1512.00567)
@@ -35,6 +36,18 @@
 
 6. DenseNet
 - [논문링크](https://arxiv.org/pdf/1608.06993.pdf)
+- [study 문서링크](https://docs.google.com/document/d/1VPHR-tEUKZNWe3PAysoI28Y9rHKMZbPrShI2cGAVbPc/edit?usp=sharing)
+- 논문 이외 References
+   - https://blog.airlab.re.kr/2019/07/densenet
+   - https://csm-kr.tistory.com/10
+   - https://deep-learning-study.tistory.com/528
+   - https://ysbsb.github.io/cnn/2020/02/12/DenseNet.html
+   - https://velog.io/@kangtae/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Densely-Connected-Convolutional-NetworksDenseNet
+   - https://jayhey.github.io/deep%20learning/2017/10/13/DenseNet_1/
+   - https://chloe-ki.tistory.com/entry/densenet-densely-connected-convolutional-networks
+   - https://wikidocs.net/121707
+   - https://warm-uk.tistory.com/46
+
 
 7. SeNet
 - [논문링크](https://arxiv.org/pdf/1709.01507.pdf)
