@@ -51,6 +51,11 @@
 7. SeNet
 - [논문링크](https://arxiv.org/pdf/1709.01507.pdf)
 - [study PPT링크](https://docs.google.com/presentation/d/18RblST2lA_6EuKZqCC82yoHAgLc-ZI-1fqXAFn0fqKg/edit?usp=sharing)
+- 논문 이외 References
+   - https://deep-learning-study.tistory.com/539
+   - https://deep-learning-study.tistory.com/561
+   - https://jayhey.github.io/deep%20learning/2018/07/18/SENet/?
+   - 
 - 요약 : 
    - 짜내고(Squeeze) 활성화시키는(Excitation) 망
    - SE block을 통해 Squeeze 와 Excitation을 수행한다.
