@@ -7,7 +7,10 @@
 2. Albumentation 라이브러리 (Blur, GridDistortion 등의 방법)
 - image augmentation.pdf 참고
 - 논문 이외 References
-   - a
+   - https://github.com/albumentations-team/albumentations
+   - https://medium.com/@ArjunThoughts/albumentations-package-is-a-fast-and-%EF%AC%82exible-library-for-image-augmentations-with-many-various-207422f55a24
+   - https://github.com/albumentations-team/albumentations_examples
+
 
 3. TTA
 
