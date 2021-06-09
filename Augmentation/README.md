@@ -5,9 +5,9 @@
 1. Keras - ImageGenerator - Augmentation
 
 2. Albumentation 라이브러리 (Blur, GridDistortion 등의 방법)
-- [ppt링크](./image augmentation.pdf)
+- image augmentation.pdf 참고
 - 논문 이외 References
-   - 
+   - a
 
 3. TTA
 
