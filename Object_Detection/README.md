@@ -11,7 +11,12 @@
    - https://man-about-town.tistory.com/52
 
 3. Fast R-CNN
-
+- 논문 이외 References
+   -https://ganghee-lee.tistory.com/36
+- 요약 : 
+   - ROI 추가로 CNN연산 횟수 감소
+   - 한번의 학습으로 classification, lacalization 학습 가능
+   
 4. Faster R-CNN
 - [논문 링크](https://arxiv.org/abs/1506.01497)
 - [study PPT링크](https://docs.google.com/presentation/d/13PpVQUB_BIWYVsJKqW-ZgRYIEsQdBoZ_Ggm1263yXsM/edit?usp=sharing)
