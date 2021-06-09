@@ -5,7 +5,11 @@
 1. R-CNN
 
 2. SPPNet
-
+- [study pdf링크](https://drive.google.com/file/d/1SDbFpJMEJeqFp5KFroLMUAqtVsBLzOaL/view?usp=sharing)
+- 논문 이외 References
+   - https://blog.naver.com/PostView.nhn?blogId=jaeyoon_95&logNo=221785990158&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+   - https://man-about-town.tistory.com/52
+   - 
 3. Fast R-CNN
 
 4. Faster R-CNN
