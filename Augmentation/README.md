@@ -3,6 +3,10 @@
 ### 6/9 study
 
 1. Keras - ImageGenerator - Augmentation
+ - ImageDataGenerator.pdf 
+ - https://keras.io/ko/preprocessing/image/
+ - Brightness example : https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
+ - ImageDataGenerator 적용 예시 : https://fairyonice.github.io/Learn-about-ImageDataGenerator.html
 
 2. Albumentation 라이브러리 (Blur, GridDistortion 등의 방법)
 - image augmentation.pdf 참고
