@@ -1,10 +1,10 @@
 # Image Classification
 
 ### 5/12 study
-1. AlexNet
+**1. AlexNet**
 - [논문 링크](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
 
-2. VGGNet
+**2. VGGNet**
 - [논문 링크](https://arxiv.org/abs/1409.1556)
 
 3. ResNet
