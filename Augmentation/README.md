@@ -1,24 +1,24 @@
 # Augmentation
 
-### 6/9 study
+## 6/9 study
 
-1. Keras - ImageGenerator - Augmentation
- - ImageDataGenerator.pdf 
- - https://keras.io/ko/preprocessing/image/
- - Brightness example : https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
- - ImageDataGenerator 적용 예시 : https://fairyonice.github.io/Learn-about-ImageDataGenerator.html
+**1. Keras - ImageGenerator - Augmentation**
+- ImageDataGenerator.pdf 
+- https://keras.io/ko/preprocessing/image/
+- Brightness example : https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
+- ImageDataGenerator 적용 예시 : https://fairyonice.github.io/Learn-about-ImageDataGenerator.html
 
-2. Albumentation 라이브러리 (Blur, GridDistortion 등의 방법)
+**2. Albumentation 라이브러리 (Blur, GridDistortion 등의 방법)**
 - image augmentation.pdf 참고
 - 논문 이외 References
    - https://github.com/albumentations-team/albumentations
    - https://medium.com/@ArjunThoughts/albumentations-package-is-a-fast-and-%EF%AC%82exible-library-for-image-augmentations-with-many-various-207422f55a24
    - https://github.com/albumentations-team/albumentations_examples
 
+**3. TTA**
+- 정리해주세요~~~
 
-3. TTA
-
-4. CutMix, Mixup
+**4. CutMix, Mixup**
 - [CutMix 논문 링크](https://arxiv.org/abs/1905.04899)
 - [Mixup 논문 링크](https://arxiv.org/abs/1710.09412)
 - [study PPT 링크](https://docs.google.com/presentation/d/13PpVQUB_BIWYVsJKqW-ZgRYIEsQdBoZ_Ggm1263yXsM/edit?usp=sharing)

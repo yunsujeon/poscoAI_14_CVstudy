@@ -1,16 +1,19 @@
 # Object Detection
 
-### 5/26 study
+## 5/26 study
 
-1. R-CNN
+**1. R-CNN**
+- [논문 링크](https://arxiv.org/abs/1311.2524)
 
-2. SPPNet
+**2. SPPNet**
+- [논문 링크](https://arxiv.org/abs/1406.4729)
 - [study pdf링크](https://drive.google.com/file/d/1SDbFpJMEJeqFp5KFroLMUAqtVsBLzOaL/view?usp=sharing)
 - 논문 이외 References
    - https://blog.naver.com/PostView.nhn?blogId=jaeyoon_95&logNo=221785990158&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
    - https://man-about-town.tistory.com/52
 
-3. Fast R-CNN
+**3. Fast R-CNN**
+- [논문 링크](https://arxiv.org/abs/1506.01497) 
 - [Fast R-CNN.pdf 첨부파일 참고]
 - 논문 이외 References
    -https://ganghee-lee.tistory.com/36
@@ -18,7 +21,7 @@
    - ROI 추가로 CNN연산 횟수 감소
    - 한번의 학습으로 classification, lacalization 학습 가능
    
-4. Faster R-CNN
+**4. Faster R-CNN**
 - [논문 링크](https://arxiv.org/abs/1506.01497)
 - [study PPT링크](https://docs.google.com/presentation/d/13PpVQUB_BIWYVsJKqW-ZgRYIEsQdBoZ_Ggm1263yXsM/edit?usp=sharing)
 - 논문 이외 References
@@ -31,3 +34,17 @@
    - Bounding Box를 만드는 부분에서 성능향상을 요함
    - 이전까지의 Selective Search 방식이 아닌 RPN(Network 형식)을 채택
    - 결과적으로 실시간 객체인식의 성과를 달성함
+
+## 6/16 study
+
+**5. YOLOv1**
+- [논문 링크](https://arxiv.org/abs/1506.02640)
+
+**6. SSD**
+- [논문 링크](https://arxiv.org/abs/1512.02325)
+
+**7. YOLOv2**
+- [논문 링크](https://arxiv.org/abs/1612.08242)
+
+**8. YOLOv3**
+- [논문 링크](https://arxiv.org/abs/1804.02767)
