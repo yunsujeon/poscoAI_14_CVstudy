@@ -3,6 +3,8 @@
 ## 5/12 study
 **1. AlexNet**
 - [논문 링크](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
+- [발표자료](https://drive.google.com/file/d/1N71L1nVmGXPhYOVulsTlnMP3ht467v0k/view?usp=sharing)
+- [참고링크](https://bskyvision.com/421)
 
 **2. VGGNet**
 - [논문 링크](https://arxiv.org/abs/1409.1556)
@@ -66,3 +68,6 @@
 
 **8. EfficientNet**
 - [논문링크](https://arxiv.org/pdf/1905.11946.pdf)
+- [발표자료](https://drive.google.com/file/d/1NWLYJNOQ5rfwhVus8dktW6aZ07-_Q5H9/view?usp=sharing)
+- [참고링크](https://bellzero.tistory.com/17)
+
