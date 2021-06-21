@@ -3,7 +3,10 @@
 ## 5/26 study
 
 **1. R-CNN**
+- [발표자료](https://drive.google.com/file/d/1A-BRY4Rw3fWX5nZxtQXz0Pzi11Tj4TIG/view?usp=sharing)
 - [논문 링크](https://arxiv.org/abs/1311.2524)
+- [참고자료1](https://jaehyeongan.github.io/2019/10/10/R-CNN/)
+- [참고자료2](https://ganghee-lee.tistory.com/35)
 
 **2. SPPNet**
 - [논문 링크](https://arxiv.org/abs/1406.4729)
