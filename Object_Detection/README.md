@@ -38,7 +38,10 @@
 ## 6/16 study
 
 **5. YOLOv1**
+- [발표자료](https://drive.google.com/file/d/12QplEJiigX8BRuW-j-MEmcAKQpgGiETe/view?usp=sharing)
 - [논문 링크](https://arxiv.org/abs/1506.02640)
+- [참고링크1](https://bkshin.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-YOLOYou-Only-Look-Once)
+- [참고링크2](https://velog.io/@dkdk6638/YOLOv1-You-Only-Look-Once-Unified-Real-Time-Object-Detection)
 
 **6. SSD**
 - [논문 링크](https://arxiv.org/abs/1512.02325)
