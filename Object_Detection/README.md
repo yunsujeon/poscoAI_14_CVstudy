@@ -53,4 +53,9 @@
 - [논문 링크](https://arxiv.org/abs/1612.08242)
 
 **8. YOLOv3**
-- [논문 링크](https://arxiv.org/abs/1804.02767)
+- [발표자료](https://docs.google.com/presentation/d/13N7ulvEsJsiEWGnm2skPtbF4Zdq0vu18JQPhSOoy6Tg/edit?usp=sharing)
+- [논문 링크](https://arxiv.org/abs/1804.02767)]
+- 논문 이외 References
+   - https://seol8118.github.io/object%20detection/od-YOLOv3/?#13-predictions-across-scales
+   - https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/?
+   - https://taeu.github.io/paper/deeplearning-paper-yolov3/?
