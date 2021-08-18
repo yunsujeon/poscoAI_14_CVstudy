@@ -1,6 +1,6 @@
 # poscoAI_14_CVstudy
 
-## POSCO 청년 AI Bigdata 14기
+## POSCO AI Bigdata 14기
 ### 딥러닝-CV 기술,논문 분석스터디   
   <img src="./pos.png" width="684px" height="90px"></img><br/>   
 
