@@ -2,7 +2,8 @@
 
 ## POSCO AI Bigdata 14기
 ### 딥러닝-CV 기술,논문 분석스터디   
-  <img src="./pos.png" width="684px" height="90px"></img><br/>   
+<!-- <img src="./pos.png" width="684px" height="90px"></img><br/>  --> 
+   
 
 ## Contents   
 - [이미지 분류 (Image Classification)](https://github.com/yunsujeon/poscoAI_14_CVstudy/tree/master/Image_Classification)
